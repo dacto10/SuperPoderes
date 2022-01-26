@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="5357e57b-0ba8-4fbf-8025-ad2455094a82" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:61204/CargarSuperPoderes.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CargarSuperPoderes.xsd" MetadataType="Schema" ID="18d73999-2ea0-49bf-adcb-2f3ea70089c3" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?xsd=xsd0" />
+    <MetadataFile FileName="CargarSuperPoderes1.xsd" MetadataType="Schema" ID="782b48f9-021e-416d-bd70-1eb97a82b67c" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?xsd=xsd3" />
+    <MetadataFile FileName="CargarSuperPoderes2.xsd" MetadataType="Schema" ID="b0dadb47-722b-4fc6-84c4-7ba50528f639" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?xsd=xsd2" />
+    <MetadataFile FileName="CargarSuperPoderes.disco" MetadataType="Disco" ID="1c9bd78e-713d-44b6-bd41-62a674ee9ffb" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?disco" />
+    <MetadataFile FileName="CargarSuperPoderes.wsdl" MetadataType="Wsdl" ID="c33cd30d-e972-45da-b579-6c39c0d822ea" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?wsdl" />
+    <MetadataFile FileName="CargarSuperPoderes3.xsd" MetadataType="Schema" ID="68adba2b-6cfc-48f0-a5a9-5934eafcde06" SourceId="1" SourceUrl="http://localhost:61204/CargarSuperPoderes.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
